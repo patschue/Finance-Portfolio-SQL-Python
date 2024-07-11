@@ -4,3 +4,5 @@ database/PG_16_202307071/
 .DS_Store
 
 .vscode/
+
+venv_fin_data/
