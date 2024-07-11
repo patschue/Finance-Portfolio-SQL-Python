@@ -6,3 +6,5 @@ database/PG_16_202307071/
 .vscode/
 
 venv_fin_data/
+
+.env
