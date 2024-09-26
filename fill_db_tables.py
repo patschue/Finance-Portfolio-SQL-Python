@@ -20,7 +20,7 @@ conn = psycopg2.connect(**db_params)
 cur = conn.cursor()
 
 # Liste der Unternehmensticker
-lst_company = ["UBSG.SW", "UBS", "AAPL", "PFE", "AMZN"]
+lst_company = ["UBSG.SW", "UBS", "AAPL", "PFE", "AMZN", "META", "TSLA", "NVDA", "XOM", "MSFT", "KO"]
 lst_currency = ["CHF=X", "EUR=X", "EURCHF=X"]
 
 # Daten in die Tabelle Company laden
