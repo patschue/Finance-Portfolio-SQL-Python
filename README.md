@@ -2,6 +2,8 @@
 
 This repository showcases a series of Python scripts aimed at automating financial data management and analysis. It covers key areas in finance such as market data retrieval, portfolio optimization, risk assessment, and arbitrage detection. The project is designed to demonstrate practical competencies in Python for financial applications.
 
+This repository will be updated from time to time.
+
 ## Features
 
 - Market Data Retrieval: Download historical stock and FX data from multiple sources.
